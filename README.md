@@ -1,6 +1,10 @@
-# CAPM_CLIP_VGG_LViT
+# CPAM_CLIP_VGG_LViT
 
-
+This repo is not the official implementation of "**Text-Guided Cross-Position Attention for Segmentation: Case of Medical Image**" 
+And I used the CLIP and vgg models to reproduce this paper.
+[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_52),
+---------------------------------------------------------------------------------------------------------------------------------------------
+If you want to have a better experience with CAPM, you might as well try what Lvit and his team have done.
 This repo is the official implementation of "**LViT: Language meets Vision Transformer in Medical Image Segmentation**" 
 [Arxiv](https://arxiv.org/abs/2206.14718), [ResearchGate](https://www.researchgate.net/publication/371833348_LViT_Language_meets_Vision_Transformer_in_Medical_Image_Segmentation), [IEEEXplore](https://ieeexplore.ieee.org/document/10172039)
 
