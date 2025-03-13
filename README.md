@@ -142,7 +142,7 @@ See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 
 ### 6.About CAPM
 
-You can complete this on the basis of LVIT, and there is also a CPAM_STABLE.py in the mian specifically.
+You can complete this on the basis of LVIT, and there is also a nets/CPAM_STABLE.py in the mian specifically.
 You also need to install additional library.
 ```angular2html
 python install openai-clip
