@@ -166,17 +166,6 @@ If everything went right, you should see output similar to this:
 * [UCTransNet](https://github.com/McGregorWwww/UCTransNet)
 
 
-## Citation
-
-```bash
-@article{li2023lvit,
-  title={Lvit: language meets vision transformer in medical image segmentation},
-  author={Li, Zihan and Li, Yunxiang and Li, Qingde and Wang, Puyang and Guo, Dazhou and Lu, Le and Jin, Dakai and Zhang, You and Hong, Qingqi},
-  journal={IEEE Transactions on Medical Imaging},
-  year={2023},
-  publisher={IEEE}
-}
-```
 
 [![Stargazers repo roster for @xsq2023/CPAM_CLIP_VGG_LViT](https://reporoster.com/stars/xsq2023/CPAM_CLIP_VGG_LViT)](https://github.com/xsq2023/CPAM_CLIP_VGG_LViT/stargazers)
 
