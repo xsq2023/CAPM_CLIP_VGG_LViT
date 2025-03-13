@@ -178,6 +178,6 @@ If everything went right, you should see output similar to this:
 }
 ```
 
-[![Stargazers repo roster for @HUANGLIZI/LViT](https://reporoster.com/stars/HUANGLIZI/LViT)](https://github.com/HUANGLIZI/LViT/stargazers)
+[![Stargazers repo roster for @xsq2023/CPAM_CLIP_VGG_LViT](https://reporoster.com/stars/xsq2023/CPAM_CLIP_VGG_LViT)](https://github.com/xsq2023/CPAM_CLIP_VGG_LViT/stargazers)
 
-[![Forkers repo roster for @HUANGLIZI/LViT](https://reporoster.com/forks/HUANGLIZI/LViT)](https://github.com/HUANGLIZI/LViT/network/members)
+[![Forkers repo roster for @xsq2023/CPAM_CLIP_VGG_LViT](https://reporoster.com/forks/xsq2023/CPAM_CLIP_VGG_LViT)](https://github.com/xsq2023/CPAM_CLIP_VGG_LViT/network/members)
