@@ -152,7 +152,7 @@ Then by running
 python CPAM_STABLE.py
 ```
 If everything went right, you should see output similar to this:
-![image](https://github.com/xsq2023/CPAM_CLIP_VGG_LViT/blob/main/OUTPUT.png_)
+![image](https://github.com/xsq2023/CPAM_CLIP_VGG_LViT/blob/main/OUTPUT.png)
 
 
 
