@@ -140,9 +140,9 @@ You can get the Dice and IoU scores and the visualization results.
 In our code, we carefully set the random seed and set cudnn as 'deterministic' mode to eliminate the randomness. However, there still exsist some factors which may cause different training results, e.g., the cuda version, GPU types, the number of GPUs and etc. The GPU used in our experiments is 2-card NVIDIA V100 (32G) and the cuda version is 11.2. And the upsampling operation has big problems with randomness for multi-GPU cases.
 See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 
-### 6.About CAPM
+### 6.About CPAM
 
-You can complete this on the basis of LVIT, and there is also a nets/CPAM_STABLE.py in the mian specifically.
+You can complete this on the basis of LVIT, and there is also a nets/CPAM_STABLE.py in the main specifically.
 You also need to install additional library.
 ```angular2html
 python install openai-clip
