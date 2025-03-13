@@ -1,7 +1,7 @@
 # CPAM_CLIP_VGG_LViT
 
 This repo is not the official implementation of "**Text-Guided Cross-Position Attention for Segmentation: Case of Medical Image**" 
-And I used the CLIP and vgg models to reproduce this paper.
+And I used the CLIP and VGG models to reproduce this paper.
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_52)
 ![image](https://github.com/xsq2023/CPAM_CLIP_VGG_LViT/blob/main/image.png)
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -142,12 +142,18 @@ See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 
 ### 6.About CAPM
 
-You can complete this on the basis of LVIT, and there is also a CAPM_STABLE.py in the mian specifically.
-You also need to install additional libraries.
-
+You can complete this on the basis of LVIT, and there is also a CPAM_STABLE.py in the mian specifically.
+You also need to install additional library.
 ```angular2html
 python install openai-clip
 ```
+Then by running
+```angular2html
+python CPAM_STABLE.py
+```
+If everything went right, you should see output similar to this:
+![image](https://github.com/xsq2023/CPAM_CLIP_VGG_LViT/blob/main/OUTPUT.png_)
+
 
 
 
