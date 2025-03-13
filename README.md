@@ -138,7 +138,7 @@ See https://pytorch.org/docs/stable/notes/randomness.html for more details.
 
 ### 6.About CAPM
 
-You can complete this on the basis of lvit, and there is also a CAPM.py in Nets specifically.
+You can complete this on the basis of LVIT, and there is also a CAPM_STABLE.py in the mian specifically.
 You also need to install additional libraries.
 
 ```angular2html
